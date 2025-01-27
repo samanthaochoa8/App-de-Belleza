@@ -19,6 +19,7 @@ El sector de la belleza y el peinado enfrenta desafíos relacionados con la pers
 El modelo relacional de nuestra App de belleza está diseñado para que permitir a los usuarios agendar citas con estilistas, establecer preferencias relacionadas con estilos, y mantener información personal y de contacto.
 
 # Tablas Principales y Relaciones 
+
 * 1. Usuario
 Atributos:
 * id_usuario (PK): Identificador único del usuario.
