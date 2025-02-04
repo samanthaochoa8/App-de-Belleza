@@ -33,7 +33,7 @@ Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos
 ![modelo relacional](https://github.com/user-attachments/assets/65c52d6f-1e4e-47ff-9990-0209aba52db8)
 El modelo relacional de nuestra App de belleza está diseñado para que permitir a los usuarios agendar citas con estilistas, establecer preferencias relacionadas con estilos, y mantener información personal y de contacto.
 
-# Tablas Principales y Relaciones 
+# TABLAS PRINCIPALES Y RELACIONES
 **1. Usuario**
 - Atributos clave: id_usuario (PK), nombre, gmail, telefono.
 
