@@ -21,28 +21,33 @@ El modelo relacional de nuestra App de belleza está diseñado para que permitir
 # Tablas Principales y Relaciones 
 **1. Usuario**
 - Atributos clave: id_usuario (PK), nombre, gmail, telefono.
+
 **Relaciones:**
 - Uno a muchos con Cita (cita_id_cita).
 - Uno a muchos con PreferenciaUsuario.
 --------------------------------------------------------------------------------------------
 **2. Cita**
 - Atributos clave: id_cita (PK), fecha_hora, id_usuario, id_estilista.
+
 **Relaciones:**
 - Muchos a uno con Usuario.
 - Muchos a uno con Estilista.
 -------------------------------------------------------------------------------------------
 **3. Estilista**
 - Atributos clave: id_estilista (PK), nombre, especialidad, telefono.
+
 **Relaciones:**
 - Uno a muchos con Cita.
 -------------------------------------------------------------------------------------------
 **4. Estilo***
 - Atributos clave: id_estilo (PK), nombre, categoria, descripcion.
+
 **Relaciones:**
 - Uno a muchos con PreferenciaUsuario.
 -----------------------------------------------------------------------------------------
 **5. PreferenciaUsuario**
 - Atributos clave: id_usuario (FK, PK), id_estilo (FK).
+
 **Relaciones:**
 - Muchos a uno con Usuario y Estilo
 
