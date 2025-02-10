@@ -87,6 +87,6 @@ El modelo físico de la base de datos para mi app de belleza organiza la informa
 
 ![image](https://github.com/user-attachments/assets/1d285401-a8ae-4f93-912e-db4f705780e5)
 
-**RELCACIÓN CON EL MYSQL**
+**RELACIÓN CON EL MYSQL**
 
 
