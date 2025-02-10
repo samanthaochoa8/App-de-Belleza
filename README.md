@@ -91,6 +91,6 @@ El modelo físico de la base de datos para mi app de belleza organiza la informa
 # AVISO
 La cadete Bailon y Mantuano utilizaron mi cuenta ya que no les permitia entrar a su propia cuenta, entonces nos dividimos las partes y cada quien
 edito lo suyo, avisando que va a ingresar a la cuenta para que no haya ningún inconveniente en la edicion del README.
-![image](![goku](https://github.com/user-attachments/assets/f3f2e9bf-0682-414f-8c61-6fb780cb8fc3)
+![image](https://github.com/user-attachments/assets/f3f2e9bf-0682-414f-8c61-6fb780cb8fc3)
 
 
