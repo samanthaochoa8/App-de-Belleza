@@ -69,6 +69,16 @@ El modelo relacional de nuestra App de belleza está diseñado para que permitir
 # MODELO FISICO
 El modelo físico de la base de datos para mi app de belleza organiza la información en cinco entidades principales: **Usuario**, **Cita**, **Estilista**, **PreferenciaUsuario** y **Estilo**. Los usuarios pueden agendar citas con estilistas, quienes tienen especialidades registradas. Además, cada usuario puede guardar preferencias de estilos, que están categorizados con descripciones e imágenes. Esta estructura permite una gestión eficiente de citas, perfiles y recomendaciones personalizadas dentro de la aplicación.
 
+![image](https://github.com/user-attachments/assets/91628f6b-0b5c-406e-8187-209e78a534a4)
+![image](https://github.com/user-attachments/assets/9f0e312b-a2a7-4f34-b333-75ff729b79b1)
+![image](https://github.com/user-attachments/assets/635e0127-89a1-46a0-8cdd-e287f7b4a677)
+-----------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/c15580ee-804b-4516-acea-edfa1e48eab6)
+![image](https://github.com/user-attachments/assets/92e7ffde-769c-4c0f-9b4b-8d84bbd8de00)
+![image](https://github.com/user-attachments/assets/1d60a7ee-21a0-4c32-937d-6b2d3e3f50aa)
+![image](https://github.com/user-attachments/assets/6147a1ee-8384-4c40-95af-a1832bf28b1e)
+![image](https://github.com/user-attachments/assets/81c366f9-ac4b-4736-bdbc-cd6883641015)
+
 # DISEÑO DEL SISTEMA
 
 
