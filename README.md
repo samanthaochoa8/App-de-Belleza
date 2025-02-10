@@ -87,7 +87,9 @@ El modelo físico de la base de datos para mi app de belleza organiza la informa
 # CONEXIÓN A LA BASE DE DATOS MYSQL
 
 ![image](https://github.com/user-attachments/assets/1d285401-a8ae-4f93-912e-db4f705780e5)
-
-
-
+-----------------------------------------------------------------------------------------
+# AVISO
+La cadete Bailon y Mantuano utilizaron mi cuenta ya que no les permitia entrar a su propia cuenta, entonces nos dividimos las partes y cada quien
+edito lo suyo, avisando que va a ingresar a la cuenta para que no haya ningún inconveniente en la edicion del README.
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fatomix.vg%2Ffeliz-dia-de-goku%2F&psig=AOvVaw3YX5zAN0XHljQ4P12p9o4q&ust=1739244132845000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi2ur6TuIsDFQAAAAAdAAAAABAJ)
 
