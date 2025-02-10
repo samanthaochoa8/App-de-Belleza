@@ -74,10 +74,14 @@ El modelo físico de la base de datos para mi app de belleza organiza la informa
 ![image](https://github.com/user-attachments/assets/635e0127-89a1-46a0-8cdd-e287f7b4a677)
 
 # APLICACION JAVA CON JFRAME Y CONEXIÓN A LA BASE DE DATOS MYSQL
+
 ![image](https://github.com/user-attachments/assets/5da428f1-102f-4157-b857-518180f345e3)
+
 **Paquetes creados junto con el Jframe**
 ------------------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/96bf48bb-8dd0-49dc-b9cb-8552c5d3a2ef)
+
 **Jframe**
 
 
